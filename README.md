@@ -1,5 +1,12 @@
 ## 7b7hom's github 👋
 
+<details>
+<summary>
+  Skills 🌊
+</summary>
+    ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+</details>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7b7hom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
