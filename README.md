@@ -1,8 +1,8 @@
 ## 7b7hom's github 👋
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=7b7hom)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7b7hom&langs_count=10&layout=compact)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7b7hom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **7b7hom/7b7hom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
