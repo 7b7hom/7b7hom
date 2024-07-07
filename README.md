@@ -1,5 +1,10 @@
-## Hi there 👋
+## 김경서입니다 👋
 
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=7b7hom)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7b7hom&langs_count=10&layout=compact)]()
+
+출처: https://inner-game.tistory.com/636 [Problem Solving with Algorithms:티스토리]
 <!--
 **7b7hom/7b7hom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
