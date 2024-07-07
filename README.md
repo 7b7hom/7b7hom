@@ -1,4 +1,4 @@
-## 김경서입니다 👋
+## 7b7hom's github 👋
 
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=7b7hom)]()
 
