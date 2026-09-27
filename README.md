@@ -1,4 +1,5 @@
 ### 👋 7b7hom's github
+
 🏫 Soongsil Univ. AI Software 23
 
 <br>
@@ -24,7 +25,7 @@
 ### 🏆 Awards
 
 - 숭실대학교 AI소프트웨어학부 AI소프트웨어공모전 총장상 : 2026.08
-- 2025 The 4th F1Tenth Korea Championship : 2025.11
+- 2025 The 4th F1Tenth Korea Championship 3rd prize : 2025.11
 - 숭실대학교 AI융합학부 AI융합경진대회 장려상 : 2024.11
 
 <br>
