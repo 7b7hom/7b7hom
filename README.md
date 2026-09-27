@@ -1,9 +1,9 @@
-👋 7b7hom's github
+### 👋 7b7hom's github
 🏫 Soongsil Univ. AI Software 23
 
 <br>
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 | Category | Stack |
 |:---:|:---|
@@ -13,7 +13,7 @@
 
 <br>
 
-## 📚 Experience
+### 📚 Experience
 
 - LG Aimers 9기 : 2026.07 ~ 2026.08
 - 숭실대학교 ASC : 2025.03 ~ 2026.03
@@ -21,7 +21,7 @@
 
 <br>
 
-## 🏆 Awards
+### 🏆 Awards
 
 - 숭실대학교 AI소프트웨어학부 AI소프트웨어공모전 총장상 : 2026.08
 - 2025 The 4th F1Tenth Korea Championship : 2025.11
@@ -29,15 +29,15 @@
 
 <br>
 
-## 📇 Certificates
+### 📇 Certificates
 
 - 리눅스마스터 2급 : 2026.04
 - ADSP : 2025.06
 - SQLD : 2025.04
 - TOEIC 820 : 2025.02
 
+<br>
 
-
-## 📫 Contact
+### 📫 Contact
 
 - Email: cherishu1012@gmail.com
