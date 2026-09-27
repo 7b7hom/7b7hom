@@ -1,4 +1,4 @@
-# 👋 7b7hom's github
+👋 7b7hom's github
 🏫 Soongsil Univ. AI Software 23
 
 <br>
